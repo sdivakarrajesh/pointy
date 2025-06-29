@@ -1,0 +1,50 @@
+{
+  "fill" : {
+    "automatic-gradient" : "extended-gray:1.00000,1.00000"
+  },
+  "groups" : [
+    {
+      "layers" : [
+        {
+          "image-name" : "New Project (3).png",
+          "name" : "New Project (3)",
+          "position" : {
+            "scale" : 1.1,
+            "translation-in-points" : [
+              29.0703125,
+              27.84375
+            ]
+          }
+        },
+        {
+          "fill" : "none",
+          "glass" : true,
+          "hidden" : true,
+          "image-name" : "New Project (2).png",
+          "name" : "New Project (2)",
+          "position" : {
+            "scale" : 1.1,
+            "translation-in-points" : [
+              49.1953125,
+              73.25
+            ]
+          }
+        }
+      ],
+      "shadow" : {
+        "kind" : "neutral",
+        "opacity" : 0.5
+      },
+      "translucency" : {
+        "enabled" : true,
+        "value" : 0.5
+      }
+    }
+  ],
+  "supported-platforms" : {
+    "circles" : [
+      "watchOS"
+    ],
+    "squares" : "shared"
+  }
+}
